@@ -88,3 +88,8 @@ figure:hover {
 	-ms-transform: scale(1.5);
 	transform: scale(1.5);     
 }
+
+p {
+	text-align: center;
+	font-size: 80%;
+}
